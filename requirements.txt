@@ -1,0 +1,7 @@
+scipy
+sklearn
+mlxtend
+matplotlib
+seaborn
+statsmodels
+yellowbrick
